@@ -1,0 +1,15 @@
+{
+    "name": "getstart",
+    "version": "1.0.0",
+    "description": "js",
+    "main": "index.js",
+    "scripts": {
+        "start":"node server.js",
+        "test": "echo \"error\" "
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express":"^4.17.1"
+    }
+}
